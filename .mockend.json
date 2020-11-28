@@ -1,0 +1,7 @@
+{
+  "Task": {
+    "title": "String",
+    "id": "Int",
+    "completed": "Boolean"
+  }
+}
